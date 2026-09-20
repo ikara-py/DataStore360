@@ -1,2 +1,8 @@
 testing_zone/
 .venv/
+logs/
+dags/__pycache__/
+docker-compose.old.yml
+.env
+env/
+venv/
